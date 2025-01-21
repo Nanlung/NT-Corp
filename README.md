@@ -24,8 +24,8 @@ Welcome to the **NT Corp Admin Dashboard** project! This dashboard is designed t
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-username/ntcorp-admin-dashboard.git
-   cd ntcorp-admin-dashboard
+   git clone https://github.com/nanlung/ntcorp-admin-dashboard.git
+   cd dashboard
    ```
 
 2. **Install Dependencies**:
