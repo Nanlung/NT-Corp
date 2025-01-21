@@ -55,6 +55,10 @@ Welcome to the **NT Corp Admin Dashboard** project! This dashboard is designed t
 
 The project uses Chart.js for data visualization. Customize your charts in the relevant components inside the `src/components/charts/` directory. Example configurations can be found in the [Chart.js documentation](https://www.chartjs.org/docs/latest/).
 
+## Deployment
+
+https://nt-corp.vercel.app
+
 ## 📸 Screenshots
 
 ### Home Page
